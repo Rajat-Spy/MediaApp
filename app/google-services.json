@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958984405080",
+    "project_id": "media-app-73d56",
+    "storage_bucket": "media-app-73d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958984405080:android:32085787fdff438e350a2d",
+        "android_client_info": {
+          "package_name": "com.example.mediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958984405080-nff72p407208ger5khvldnch60fms4ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLmPRBr61rgekTXjig9PdmzSBVFgPWWZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958984405080-410h4dcb3rmkdcgtgs4jr82j13gp0di4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
